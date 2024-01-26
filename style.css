@@ -1,0 +1,88 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+header {
+    text-align: center;
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    margin: 0;
+}
+
+.section {
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #007bff;
+}
+
+p {
+    margin: 5px 0;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    color: #777;
+}
+
+/* Custom styles for different sections */
+.contact {
+    background-color: #f8d7da; 
+    color: #721c24;
+}
+
+.language {
+    background-color: #d1ecf1; 
+    color: #0c5460;
+}
+
+.skills {
+    background-color: #e2e3e5; 
+    color: #495057;
+}
+
+.objective {
+    background-color: #d4edda; 
+    color: #155724;
+}
+
+.tech-skills {
+    background-color: #cce5ff; 
+    color: #004085;
+}
+
+.certifications {
+    background-color: #d6d8db; 
+    color: #383d41;
+}
+
+.projects {
+    background-color: #d1ecf1; 
+    color: #647c12;
+}
+
+.education {
+    background-color: #d4edda; 
+    color: #155724;
+}
+
+.declaration {
+    background-color: #f8d7da; 
+    color: #721c24;
+}
